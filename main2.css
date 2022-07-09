@@ -1,0 +1,59 @@
+body{
+    background-color: gray;
+    font-family: cursive;
+}
+header {
+   background-color: red;
+    text-align: center;
+    
+}
+
+
+nav{
+    border:1px solid #000;
+    display:block}
+
+
+h1{
+    color:white;
+    
+}
+
+
+/*******list*******/
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+ /*   background-color: gray;*/
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+/* add actice link color*/
+.active {
+  background-color: #04AA6D;
+}
+/***********************/
+div{
+    background-color:coral;
+    width:100%;
+    
+}
+
+footer{
+    background-color:greenyellow;
+    text-align: center;
+     
+
+}
